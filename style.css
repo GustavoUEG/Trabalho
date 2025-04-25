@@ -61,3 +61,6 @@ button {
 button:hover {
     background-color: #003f88;
 }
+.vasco {
+    align-items: center;
+}

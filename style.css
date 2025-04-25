@@ -63,4 +63,5 @@ button:hover {
 }
 .vasco {
     align-items: center;
+    display: flex;
 }
